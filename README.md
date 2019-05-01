@@ -1,2 +1,2 @@
 # Coref
-Test
+Coreference resolution is the task of finding all expressions that refer to the same entity in a text. It is an important step for a lot of higher level NLP tasks that involve natural language understanding such as document summarization, question answering, and information extraction (The Stanford NLP Group). A subset of coreference resolution is the resolution of ambiguous pronouns - also known as pronoun coreference resolution. For example, examine the following sentence: “Sarah walked down the street and spotted her neighbor.”  The pronoun “her” refers to “Sarah.” Pronouns are ubiquitous in English texts. Therefore, in order for a machine to correctly process English text, it needs to be able to correctly extract meaning from pronouns.
